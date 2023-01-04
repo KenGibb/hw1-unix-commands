@@ -1,5 +1,29 @@
+
  star_wars mkdir death_star
  galaxy_far_far_away mkdir tatooine   tatooine touch luke.txt ben_kenobi.txt
  tatooine mkdir millenium_falcon    millenium_falcon touch han_solo.txt chewbaca.txt
  tatooine mv ben_kenobi.txt obi_wan.txt
- 
+ mv luke.txt millenium_falcon
+ mv obi_wan.txt millenium_falcon
+ mv millenium_falcon /Users/kenny/hw1-unix-commands/star_wars/galaxy_far_far_away
+ mv millenium_falcon mv millenium_falcon /Users/kenny/hw1-unix-commands/star_wars/death_star
+ mv princess_leia.txt millenium_falcon 
+ rm -r obi_wan.txt 
+ mdir yavin_4
+ mv /Users/kenny/hw1-unix-commands/star_wars/death_star/millenium_falcon /Users/kenny/hw1-unix-commands/star_wars/galaxy_far_far_away/yavin_4
+ mkdir x_wing
+ mv princess_leia.txt /Users/kenny/hw1-unix-commands/star_wars/galaxy_far_far_away/yavin_4
+ /Users/kenny/hw1-unix-commands/star_wars/galaxy_far_far_away/yavin_4/x_wing 
+mv x_wing /Users/kenny/hw1-unix-commands/star_wars/galaxy_far_far_away
+mv millenium_falcon /Users/kenny/hw1-unix-commands/star_wars/galaxy_far_far_away
+mkdir tie_fighter_1 tie_fighter_2 tie_fighter_3
+cp storm_trooper.txt tie_fighter_2
+cp storm_trooper.txt tie_fighter_3
+mv tie_fighter_1 /Users/kenny/hw1-unix-commands/star_wars/galaxy_far_far_away
+mv tie_fighter_2 /Users/kenny/hw1-unix-commands/star_wars/galaxy_far_far_away
+mv tie_fighter_3 /Users/kenny/hw1-unix-commands/star_wars/galaxy_far_far_away
+rm -r tie_fighter_2
+rm -r tie_fighter_3
+ touch the_force.txt
+ rm -r death_star 
+ mv millenium_falcon yavin_4 mv x_wing yavin_4 
