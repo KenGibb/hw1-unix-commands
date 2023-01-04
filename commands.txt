@@ -1,0 +1,5 @@
+ star_wars mkdir death_star
+ galaxy_far_far_away mkdir tatooine   tatooine touch luke.txt ben_kenobi.txt
+ tatooine mkdir millenium_falcon    millenium_falcon touch han_solo.txt chewbaca.txt
+ tatooine mv ben_kenobi.txt obi_wan.txt
+ 
